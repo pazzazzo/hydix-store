@@ -3,6 +3,7 @@
     "author": "discord",
     "type": "socialnetwork",
     "url": "https://discord.com",
+    "icon": "https://discord.com/assets/847541504914fd33810e70a0ea73177e.ico",
     "download": {
         "windows": "https://discord.com/api/downloads/distributions/app/installers/latest?channel=stable&platform=win&arch=x86",
         "mac": "https://discord.com/api/download?platform=osx",

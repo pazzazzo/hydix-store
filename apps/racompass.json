@@ -3,6 +3,7 @@
     "author": "racompass",
     "type": "devtools",
     "url": "https://racompass.com",
+    "icon": "https://racompass.com/logo.png",
     "keyword": [
         "Redis",
         "admin",
