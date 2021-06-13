@@ -1,0 +1,16 @@
+{
+    "name": "discord",
+    "author": "discord",
+    "type": "socialnetwork",
+    "url": "https://discord.com",
+    "download": {
+        "windows": "https://discord.com/api/downloads/distributions/app/installers/latest?channel=stable&platform=win&arch=x86",
+        "mac": "https://discord.com/api/download?platform=osx",
+        "linux": "https://discord.com/api/download?platform=linux&format=tar.gz"
+    },
+    "keyword": [
+        "discord",
+        "socialnetwork",
+        "messages"
+    ]
+}
