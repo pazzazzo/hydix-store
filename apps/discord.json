@@ -1,5 +1,6 @@
 {
     "name": "discord",
+    "desc": "Your place to talk",
     "author": "discord",
     "type": "socialnetwork",
     "url": "https://discord.com",
@@ -10,9 +11,6 @@
         "linux": "https://discord.com/api/download?platform=linux&format=tar.gz"
     },
     "keyword": [
-        "discord",
-        "socialnetwork",
-        "messages",
-        "electron"
+        "chat"
     ]
 }

@@ -1,5 +1,6 @@
 {
     "name": "Racompass",
+    "desc": "The modern high performance GUI for Redis. A faster and robust Redis management tool. For developers that need to manage data with confidence. It supports Redis 6.",
     "author": "racompass",
     "type": "devtools",
     "url": "https://racompass.com",
